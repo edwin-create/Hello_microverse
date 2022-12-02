@@ -55,7 +55,7 @@ REQUIRED SECTIONS:
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Hello-Microverse] <a name="Hello-Microverse"></a>
+# 📖 Hello-Microverse <a name="Hello-Microverse"></a>
 
 > Add a header to homepage.
 
