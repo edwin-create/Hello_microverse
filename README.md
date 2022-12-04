@@ -63,8 +63,10 @@ Hello-Microverse is a project that seeks to demonstrate good Github flow habits.
 
 
 
-## Tech Stack <a name="HTML/CSS"></a>
 
+## Tech Stack <a name="tech-stack"></a>
+- HTML
+- CSS
 
 
 ### Key Features <a name="key-features"></a>
@@ -85,6 +87,9 @@ Use this project to understand GitHub flows.
 
 To get a local copy up and running, follow these steps.
 
+1. Download Google Chrome
+2. Download a code editor
+3. Clone the repo from Github
 
 
 ## 👥 Authors <a name="authors"></a>
@@ -120,13 +125,5 @@ If you like this project please follow.
 
 
 
-
-<!-- LICENSE -->
-
-## 📝 License <a name="license"></a>
-
-This project is [MIT](./LICENSE) licensed.
-
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
