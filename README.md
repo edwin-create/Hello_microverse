@@ -6,16 +6,11 @@
 REQUIRED SECTIONS:
 - Table of Contents
 - About the Project
-  - Built With
   - Live Demo
 - Getting Started
 - Authors
-- Future Features
-- Contributing
+-Contributions
 - Show your support
-- Acknowledgements
-- License
-
 
 
 <div align="center">
@@ -70,10 +65,8 @@ Hello-Microverse is a project that seeks to demonstrate good Github flow habits.
 
 
 ### Key Features <a name="key-features"></a>
-
-> Describe between 1-3 key features of the application.
-
-- **Project Header**
+-Includes the project header
+-Shows good use of linters
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
